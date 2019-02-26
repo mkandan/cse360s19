@@ -43,7 +43,7 @@ public class Calculator {
 	 */
 	
 	public int getTotal () {
-		return 0;
+		return total;
 	}
 	
 	/*
